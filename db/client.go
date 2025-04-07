@@ -1,3 +1,8 @@
+/*
+ * SPDX-License-Identifier: MIT
+ * Author: Zenger (https://github.com/Zenger)
+ */
+
 package db
 
 import (
